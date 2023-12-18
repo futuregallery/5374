@@ -23,6 +23,9 @@ a:hover {
 .accordion-inner li{
 	margin-bottom:7px;
 }
+.accordion-inner a{
+	color:#428bca;
+}
 .accordion-table img{
     max-height: 50px;
     margin-left: -25px;
