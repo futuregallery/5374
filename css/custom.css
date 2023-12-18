@@ -12,6 +12,13 @@ a:hover {
 .accordion-inner {
 	padding: 9px 15px;
 }
+.accordion-inner h3{
+	font-size:14px;
+	color:#ffffff;
+}
+.accordion-inner li{
+	margin-bottom:7px;
+}
 
 /*!
  * ゴミ収集の情報
