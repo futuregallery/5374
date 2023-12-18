@@ -1,10 +1,10 @@
 label,sublabel,description,styles,bgcolor
-燃やせないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃えるごみ,,,img/moyasu02.svg,#ea3b13
+燃やせない,,,img/moyasanai02.svg,#733b96
+雑紙,,,img/shigen02.svg,#77ae1f
+燃える,,,img/moyasu02.svg,#ea3b13
 びん,,,img/bin02.svg,#2dc7aa
-缶,,,,
+缶類,,,,
 プラスチック製容器包装,,,,
-燃えないごみ・危険ごみ,,,,
-粗大ごみ,,,,
+燃えない・危険,,,,
+粗大,,,,
 収集しないもの,,,,
