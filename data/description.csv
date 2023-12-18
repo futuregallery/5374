@@ -3,6 +3,6 @@ label,sublabel,description,styles,bgcolor
 燃やせない,,,img/moyasanai02.svg,#ccffff
 その他資源物,,,img/shigen02.svg,#ffcc66
 びん・缶・プラ,,,img/bin02.svg,#2dc7aa
-燃えない・危険,,,img/moyasanai.svg,#cccccc
-粗大,,,img/moyasanai.svg,#ccccff
-収集しないもの,,,img/moyasanai.svg,#cc0000
+燃えない・危険,,,img/moyasanai02.svg,#cccccc
+粗大,,,img/moyasanai02.svg,#ccccff
+収集しないもの,,,img/moyasanai02.svg,#cc0000
