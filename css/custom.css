@@ -12,12 +12,21 @@ a:hover {
 .accordion-inner {
 	padding: 9px 15px;
 }
+
+/*!
+ * カスタマイズ for 大樹町
+ */
 .accordion-inner h3{
 	font-size:14px;
 	color:#ffffff;
 }
 .accordion-inner li{
 	margin-bottom:7px;
+}
+.accordion-table img{
+    max-height: 50px;
+    margin-left: -25px;
+    margin-right: 5px;
 }
 
 /*!
