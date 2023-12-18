@@ -580,7 +580,7 @@ $(function() {
                 } else {
                     accordionHTML += '<p class="text-center">' + description.label + "</p>";
                 }
-                accordionHTML +=  description.label +
+                accordionHTML +=  description.label;
                 accordionHTML += "</div>" +
                     '<h6><p class="text-left date">' + dateLabel + "</p></h6>" +
                     "</a>" +
